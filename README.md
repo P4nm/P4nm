@@ -1,6 +1,6 @@
 Olá, eu sou a Panmela Tonassi 👋😊
 
-- 🔭 Hoje trabalho com SEO
+- 🔭 Atualmente trabalho com SEO
 - 🌱 Desenvolvedora Web em formação
 - 📫 Contate-me por email: panmelatonassi.dev@gmail.com
 - 😄 Pronouns: Ela/dela
@@ -20,4 +20,7 @@ Olá, eu sou a Panmela Tonassi 👋😊
   <div>
   <a href = "mailto:panmelatonassi.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/panmela-tonassi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+    ![Snake animation](https://github.com/rafaballerini/p4nm/blob/output/github-contribution-grid-snake.svg)
   </div>
+  
