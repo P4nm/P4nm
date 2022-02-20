@@ -2,7 +2,6 @@ Olá, eu sou a Panmela Tonassi 👋😊
 
 - 🔭 Atualmente trabalho com SEO
 - 🌱 Desenvolvedora Web em formação
-- :joy: A melhor desenvolvedora da minha rua (só tem eu)
 - 📫 Contate-me por email: panmelatonassi.dev@gmail.com
 - 😄 Pronouns: Ela/dela
 
